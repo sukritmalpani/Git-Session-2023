@@ -193,7 +193,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 
 ## CSB
 - [ ]  1
-- [ ]  2
+- [x]  2
 - [ ]  3
 - [ ]  4
 - [ ]  5
