@@ -179,7 +179,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  47
 - [ ]  48
 - [ ]  49
-- [ ]  50
+- [x]  50
 - [ ]  51
 - [ ]  52
 - [ ]  53
